@@ -2,7 +2,7 @@
 Sturdy, adjustable book stand designed to hold books at a comfortable reading incline.
 
 ## What is this?
-Book stand is a simple and sleek stand for readers who seek comfort while reading. This stand has an adjustable incline and also has an adjustable lock to lock-in the book or bookmark any pages. This design shares colors with my previous Organizer projects, i.e., Orange and White. Big and strong enough size for varied books and thickness.
+Book Stand is a simple and sleek stand for readers who seek comfort while reading. This stand has an adjustable incline and also has an adjustable lock to secure the book or bookmark any pages. This design shares colors with my previous Organizer projects, i.e., Orange and White. Big and strong enough for varied books and thicknesses.
 
 <img src="Assets/Screenshot-2026-10-17-213604.png" alt="image 1 of book stand" width="400">
 
