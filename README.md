@@ -32,6 +32,13 @@ Click [here](https://cad.onshape.com/documents/caae6018893e4026057ddf68/w/a835b1
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
 4. That's it! Wait for it to arrive and go read!
 
+## [BOM](BOM.csv) as a table
+| Item     | Description  | Quantity | Price (USD) | Link                             |
+|----------|--------------|----------|-------------|----------------------------------|
+| 3D print | PLA (230 gm) | 1        | 12          | https://printlegion.hackclub.com |
+| Shipping |              |          | 1           |                                  |
+| Total    |              |          | 13          |                                  |
+
 ## Fabrication Specs
 1. Printer- 0.2 mm Standard Quality
 2. Material- PLA
