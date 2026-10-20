@@ -11,16 +11,11 @@ Book Stand is a simple and sleek stand for readers who seek comfort while readin
 ## Repository Structure
 ```text
 book-stand/
-|
-|---- Assets/-----------# Images and visual references for the project
-|
-|---- Hardware/---------# Source design files for the CAD
-|
-|---- BOM.csv-----------# Bill of materials
-|
-|---- LICENSE-----------# MIT License
-|
-|---- README.md---------# Project documentation and instructions
+1] Assets/----> All the images and visual references of the project
+2] Hardware/--> Source design files
+3] BOM.csv----> Bill of materials
+4] LICENSE----> MIT License
+5] README.md--> Detailed project documentation and instructions
 ```
 
 ## Live 3d view in Onshape
@@ -30,7 +25,11 @@ Click [here](https://cad.onshape.com/documents/caae6018893e4026057ddf68/w/a835b1
 1. Download the source CAD .step files from the [Hardware](Hardware/) directory
 2. Import the file into your CAD editor and make edits as you want (Optional)
 3. Go to your fabricater/ manufacturer website, get a quote, and purchase it (For Example, [ROBU](https://robu.in) or [JLCPCB](https://jlcpcb.com))
-4. That's it! Wait for it to arrive and go read!
+4. Wait for it to arrive
+5. You will need superglue while assembling the stand
+6. As seen in the image highlighted by different colors please insert the locking stems and stick them with superglue
+7. For the lockers you will need to press it slightly and attach it in the holes made for it and it will automatically lock it self
+8. Thats it! Go enjoy your Book Stand!
 
 ## [BOM](BOM.csv) as a table
 | Item     | Description  | Quantity | Price (USD) | Link                             |
